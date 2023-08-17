@@ -1,0 +1,19 @@
+.list{
+   color: white;
+   width: 300px;
+   height: inherit;
+   background-color: rgb(253, 54, 147);
+   margin: 20px auto;
+   border-radius: 5px;
+   
+}
+
+.list p{
+padding: 10px;
+
+}
+
+svg.svg-inline--fa.fa-trash {
+    float: right;
+    cursor: pointer;
+}
